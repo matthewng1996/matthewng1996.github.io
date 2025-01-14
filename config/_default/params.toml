@@ -1,3 +1,5 @@
+
+
 # -------------------------------------------------------------------------------------
 # Theme Core Configuration
 # See: https://fixit.lruihao.cn/theme-documentation-basics/#site-configuration
@@ -552,7 +554,9 @@ disableThemeInject = false
     "inject/fixit-docs-bookmark.html",
   ]
   profile = []
-  aside = []
+  aside = [
+    "custom/aside.html",
+  ]
   comment = []
   footer = []
   widgets = []
