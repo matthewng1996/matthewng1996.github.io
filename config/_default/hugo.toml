@@ -7,7 +7,8 @@ title = "Hugo FixIt Blog"
 baseURL = "https://matthewng1996.github.io/"
 theme = [
   "FixIt",
-  "shortcode-docs-bookmark"
+  "shortcode-docs-bookmark",
+  "cmpt-flyfish",
 ]
 defaultContentLanguage = "en"
 languageCode = "en"

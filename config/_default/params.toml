@@ -40,9 +40,9 @@ disableThemeInject = false
 
 # Author Configuration
 [author]
-  name = "Lruihao"
-  email = "1024@lruihao.cn"
-  link = "https://github.com/Lruihao"
+  name = "Matthew"
+  email = "matthewngweile@hotmail.com"
+  link = "https://github.com/matthewng1996"
   avatar = ""
 
 # FixIt 0.3.0 | NEW public Git repository information only then enableGitInfo is true
@@ -328,7 +328,7 @@ disableThemeInject = false
   BuyMeaCoffee = ""
   Linktree = ""
   QQ = ""
-  QQGroup = "" # https://qun.qq.com/join.html
+  QQGroup = ""
   Diaspora = ""
   CSDN = ""
   Discord = ""
@@ -556,9 +556,17 @@ disableThemeInject = false
   comment = []
   footer = []
   widgets = []
-  assets = []
+  assets = [
+    "inject/cmpt-flyfish.html",
+  ]
   postFooterBefore = []
   postFooterAfter = []
+
+#For flyfish custom properties
+[flyfish]
+  enable = true
+  light = "#f6f8fa"
+  dark = "#2c484f"
 
 # FixIt 0.2.15 | NEW Developer options
 # Select the scope named `public_repo` to generate personal access token,

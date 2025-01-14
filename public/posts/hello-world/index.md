@@ -20,6 +20,6 @@ Head over to the [issues](https://github.com/hugo-fixit/FixIt/issues) or [discus
 
 ---
 
-> Author: [Lruihao](https://github.com/Lruihao)  
+> Author: [Matthew](https://github.com/matthewng1996)  
 > URL: https://matthewng1996.github.io/posts/hello-world/  
 

@@ -6,14 +6,14 @@
     <description>This is my new Hugo FixIt site</description>
     <generator>Hugo 0.140.2 &amp; FixIt v0.3.17-07816709</generator>
     <language>en</language>
-    <managingEditor>1024@lruihao.cn (Lruihao)</managingEditor>
-    <webMaster>1024@lruihao.cn (Lruihao)</webMaster>
+    <managingEditor>matthewngweile@hotmail.com (Matthew)</managingEditor>
+    <webMaster>matthewngweile@hotmail.com (Matthew)</webMaster>
     <lastBuildDate>Tue, 14 Jan 2025 17:55:43 +0800</lastBuildDate>
     <atom:link href="https://matthewng1996.github.io/tags/fixit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://matthewng1996.github.io/posts/hello-world/</link>
-      <pubDate>Thu, 29 Sep 2022 17:06:11 +0800</pubDate><author>1024@lruihao.cn (Lruihao)</author>
+      <pubDate>Thu, 29 Sep 2022 17:06:11 +0800</pubDate><author>matthewngweile@hotmail.com (Matthew)</author>
       <guid>https://matthewng1996.github.io/posts/hello-world/</guid>
       <category domain="https://matthewng1996.github.io/categories/hello/">Hello</category>
       <description>&lt;p&gt;Welcome to Hugo FixIt! This is your very first post.&lt;/p&gt;</description>
