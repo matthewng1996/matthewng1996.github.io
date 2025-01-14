@@ -1,11 +1,8 @@
 ---
-title: Hello World
-date: 2022-09-29T17:06:11+08:00
+title: Test test
+date: 2025-01-14T17:06:11+08:00
 tags:
-- hello
-- FixIt
 categories:
-- hello
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 
