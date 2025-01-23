@@ -241,7 +241,7 @@ disableThemeInject = false
     # Gravatar Email for preferred avatar in home page
     gravatarEmail = "xx@xx.com"
     # URL of avatar shown in home page
-    avatarURL = "/images/icon_blog.png"
+    avatarURL = "../../images/icon_blog.png"
     # FixIt 0.2.17 | NEW identifier of avatar menu link
     avatarMenu = ""
     # title shown in home page (HTML format is supported)
