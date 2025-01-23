@@ -117,7 +117,7 @@ disableThemeInject = false
   # Header title config
   [header.title]
     # URL of the LOGO
-    logo = "/images/icon_blog.png"
+    logo = "../../images/icon_blog.png"
     # title name
     name = ""
     # you can add extra information before the name (HTML format is supported), such as icons
