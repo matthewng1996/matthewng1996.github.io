@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Matt&#39;s Techincal Blog</title>
-    <link>https://matthewng1996.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Matt&#39;s Techincal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>matthewngweile@hotmail.com (Matthew)</managingEditor>
     <webMaster>matthewngweile@hotmail.com (Matthew)</webMaster>
     <lastBuildDate>Thu, 23 Jan 2025 16:00:39 +0000</lastBuildDate>
-    <atom:link href="https://matthewng1996.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test test</title>
-      <link>https://matthewng1996.github.io/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Tue, 14 Jan 2025 17:06:11 +0800</pubDate><author>matthewngweile@hotmail.com (Matthew)</author>
-      <guid>https://matthewng1996.github.io/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>Welcome to Hugo FixIt! This is your very first post.</description>
     </item>
   </channel>
