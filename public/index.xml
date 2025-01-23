@@ -3,8 +3,8 @@
   <channel>
     <title>Hugo FixIt Blog</title>
     <link>https://matthewng1996.github.io/</link>
-    <description>This is my new Hugo FixIt site</description>
-    <generator>Hugo 0.140.2 &amp; FixIt v0.3.17-07816709</generator>
+    <description>Matt&#39;s Technical Blog</description>
+    <generator>Hugo 0.142.0 &amp; FixIt v0.3.17-07816709</generator>
     <language>en</language>
     <managingEditor>matthewngweile@hotmail.com (Matthew)</managingEditor>
     <webMaster>matthewngweile@hotmail.com (Matthew)</webMaster>
