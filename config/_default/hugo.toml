@@ -3,7 +3,7 @@
 # See: https://gohugo.io/getting-started/configuration/
 # -------------------------------------------------------------------------------------
 
-title = "Hugo FixIt Blog"
+title = "Matt's Techincal Blog"
 baseURL = "https://matthewng1996.github.io/"
 theme = [
   "FixIt",
